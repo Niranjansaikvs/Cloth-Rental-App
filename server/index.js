@@ -7,7 +7,7 @@ const connectDB = require("./db/db_config");
 
 const app = express();
 const port = 8001;
-
+// 
 app.use(
   cors({
     // origin:'https://wash-wave.vercel.app'
