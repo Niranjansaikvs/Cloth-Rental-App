@@ -1,0 +1,12 @@
+.login-page {
+  background: rgb(230,228,218);
+  background: linear-gradient(169deg, rgba(230,228,218,1) 0%, rgba(230,228,218,1) 100%);
+}
+.banner{
+  background-image: url(../assets/landin-banner-4.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+  
+}
